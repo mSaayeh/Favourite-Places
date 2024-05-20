@@ -15,18 +15,12 @@ Favourite Places is a Flutter application that allows users to save their favori
 - Store data locally using SQLite.
 
 ## Screenshots
-![Home Screen](screenshots/home_screen.png)
-*The home screen where all favorite places are listed.*
-
-![Add Place](screenshots/add_place.png)
-*The screen to add a new favorite place with an option to pick an image and get location coordinates.*
-
-![Place Details](screenshots/place_details.png)
-*The screen displaying the details of a selected favorite place.*
-
-![Edit Place](screenshots/edit_place.png)
-*The screen to edit a saved favorite place with an option to pick a different image or update location coordinates.*
-
+<p align="center">
+  <img src="screenshots/home_screen.png" alt="Home Screen" width="200"/>
+  <img src="screenshots/add_place.png" alt="Add Place" width="200"/>
+  <img src="screenshots/place_details.png" alt="Place Details" width="200"/>
+  <img src="screenshots/edit_place.png" alt="Edit Place" width="200"/>
+</p>
 
 ## Features Used
 - SQFlite: Used for storing favorite places data locally in a SQLite database.
